@@ -1,0 +1,10 @@
+{
+  "name": "02.FunctionArgumentsSecondPart",
+  "version": "0.0.0",
+  "description": "02.FunctionArgumentsSecondPart",
+  "main": "app.js",
+  "author": {
+    "name": "User",
+    "email": ""
+  }
+}

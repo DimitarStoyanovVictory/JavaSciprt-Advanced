@@ -1,0 +1,10 @@
+{
+  "name": "02.FunctionArguments-Call-Apply",
+  "version": "0.0.0",
+  "description": "02.FunctionArguments-Call-Apply",
+  "main": "app.js",
+  "author": {
+    "name": "User",
+    "email": ""
+  }
+}
