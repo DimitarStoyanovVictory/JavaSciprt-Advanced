@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Exam-JS-RestaurantManager", "Exam-JS-RestaurantManager\Exam-JS-RestaurantManager.njsproj", "{15C0348F-BAF5-4DFF-8582-4759177AE905}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsConsoleApp1", "NodejsConsoleApp1\NodejsConsoleApp1.njsproj", "{8E7AF87D-4248-40CD-9D9E-1A3A1FAA88B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C0348F-BAF5-4DFF-8582-4759177AE905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C0348F-BAF5-4DFF-8582-4759177AE905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C0348F-BAF5-4DFF-8582-4759177AE905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C0348F-BAF5-4DFF-8582-4759177AE905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7AF87D-4248-40CD-9D9E-1A3A1FAA88B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7AF87D-4248-40CD-9D9E-1A3A1FAA88B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7AF87D-4248-40CD-9D9E-1A3A1FAA88B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7AF87D-4248-40CD-9D9E-1A3A1FAA88B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

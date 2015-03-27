@@ -1,0 +1,10 @@
+{
+  "name": "Exam-JS-RestaurantManager",
+  "version": "0.0.0",
+  "description": "Exam-JS-RestaurantManager",
+  "main": "app.js",
+  "author": {
+    "name": "User",
+    "email": ""
+  }
+}
