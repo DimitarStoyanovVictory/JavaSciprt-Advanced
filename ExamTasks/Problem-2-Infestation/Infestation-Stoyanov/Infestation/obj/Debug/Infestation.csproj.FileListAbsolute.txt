@@ -1,0 +1,5 @@
+C:\VS Projects\ExamTasks\Problem-2-Infestation\Infestation-Stoyanov\Infestation\bin\Debug\Infestation.exe
+C:\VS Projects\ExamTasks\Problem-2-Infestation\Infestation-Stoyanov\Infestation\bin\Debug\Infestation.pdb
+C:\VS Projects\ExamTasks\Problem-2-Infestation\Infestation-Stoyanov\Infestation\obj\Debug\Infestation.csprojResolveAssemblyReference.cache
+C:\VS Projects\ExamTasks\Problem-2-Infestation\Infestation-Stoyanov\Infestation\obj\Debug\Infestation.exe
+C:\VS Projects\ExamTasks\Problem-2-Infestation\Infestation-Stoyanov\Infestation\obj\Debug\Infestation.pdb

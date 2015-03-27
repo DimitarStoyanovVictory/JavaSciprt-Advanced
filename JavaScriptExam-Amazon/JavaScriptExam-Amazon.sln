@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "JavaScriptExam-Amazon", "JavaScriptExam-Amazon\JavaScriptExam-Amazon.njsproj", "{C61E4F2F-D8A4-4B93-8F89-A916B92C9095}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "JavaScriptExam-Ready", "JavaScriptExam-Ready\JavaScriptExam-Ready.njsproj", "{DB481748-2385-4193-8C37-408F1FBA1AFE}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Test", "Test\Test.njsproj", "{AE4E24BD-0A38-4327-B8E7-337B8FB20098}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C61E4F2F-D8A4-4B93-8F89-A916B92C9095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C61E4F2F-D8A4-4B93-8F89-A916B92C9095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C61E4F2F-D8A4-4B93-8F89-A916B92C9095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C61E4F2F-D8A4-4B93-8F89-A916B92C9095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB481748-2385-4193-8C37-408F1FBA1AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB481748-2385-4193-8C37-408F1FBA1AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB481748-2385-4193-8C37-408F1FBA1AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB481748-2385-4193-8C37-408F1FBA1AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE4E24BD-0A38-4327-B8E7-337B8FB20098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4E24BD-0A38-4327-B8E7-337B8FB20098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4E24BD-0A38-4327-B8E7-337B8FB20098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4E24BD-0A38-4327-B8E7-337B8FB20098}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

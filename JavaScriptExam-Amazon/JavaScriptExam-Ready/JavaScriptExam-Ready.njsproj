@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">11.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+    <Name>JavaScriptExam-Ready</Name>
+    <RootNamespace>JavaScriptExam-Ready</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>db481748-2385-4193-8c37-408f1fba1afe</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>app.js</StartupFile>
+    <StartWebBrowser>False</StartWebBrowser>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <ProjectTypeGuids>{3AF33F2E-1136-4D97-BBB7-1795711AC8B8};{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}</ProjectTypeGuids>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <StartWebBrowser>false</StartWebBrowser>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="app.js" />
+    <Compile Include="generator.js" />
+    <Compile Include="helpers\extenssions.js" />
+    <Compile Include="html-loader.js" />
+    <Compile Include="models\category.js" />
+    <Compile Include="models\customerReview.js" />
+    <Compile Include="models\items.js" />
+    <Compile Include="models\shoppingCart.js" />
+    <Compile Include="models\user.js" />
+    <Compile Include="obj\app.js" />
+    <Compile Include="obj\generator.js" />
+    <Compile Include="obj\helpers\extenssions.js" />
+    <Compile Include="obj\html-loader.js" />
+    <Compile Include="obj\models\app.js" />
+    <Compile Include="obj\models\category.js" />
+    <Compile Include="obj\models\customerReview.js" />
+    <Compile Include="obj\models\generator.js" />
+    <Compile Include="obj\models\helpers\extenssions.js" />
+    <Compile Include="obj\models\html-loader.js" />
+    <Compile Include="obj\models\items.js" />
+    <Compile Include="obj\models\models\category.js" />
+    <Compile Include="obj\models\models\customerReview.js" />
+    <Compile Include="obj\models\models\items.js" />
+    <Compile Include="obj\models\models\shoppingCart.js" />
+    <Compile Include="obj\models\models\user.js" />
+    <Compile Include="obj\models\shoppingCart.js" />
+    <Compile Include="obj\models\user.js" />
+    <Content Include="index.html" />
+    <Content Include="obj\index.html" />
+    <Content Include="obj\models\index.html" />
+    <Content Include="package.json" />
+    <Content Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="helpers\" />
+    <Folder Include="models\" />
+    <Folder Include="obj\helpers\" />
+    <Folder Include="obj\models\" />
+    <Folder Include="obj\models\helpers\" />
+    <Folder Include="obj\models\models\" />
+  </ItemGroup>
+  <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsTools.targets" />
+</Project>

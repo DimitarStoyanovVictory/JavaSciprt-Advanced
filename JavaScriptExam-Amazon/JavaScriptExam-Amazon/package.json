@@ -1,0 +1,10 @@
+{
+  "name": "JavaScriptExam-Amazon",
+  "version": "0.0.0",
+  "description": "JavaScriptExam-Amazon",
+  "main": "app.js",
+  "author": {
+    "name": "User",
+    "email": ""
+  }
+}

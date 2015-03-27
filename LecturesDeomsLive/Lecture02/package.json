@@ -1,0 +1,10 @@
+{
+  "name": "Lecture02",
+  "version": "0.0.0",
+  "description": "Lecture02",
+  "main": "app.js",
+  "author": {
+    "name": "User",
+    "email": ""
+  }
+}
