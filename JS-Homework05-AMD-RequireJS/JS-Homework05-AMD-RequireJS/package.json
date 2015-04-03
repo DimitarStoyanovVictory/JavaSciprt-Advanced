@@ -1,0 +1,10 @@
+{
+  "name": "JS-Homework05-AMD-RequireJS",
+  "version": "0.0.0",
+  "description": "JS-Homework05-AMD-RequireJS",
+  "main": "app.js",
+  "author": {
+    "name": "User",
+    "email": ""
+  }
+}
